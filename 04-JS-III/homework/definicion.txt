@@ -1,0 +1,1 @@
+Arrays (arreglos) son estructuras que permiten guardar varios datos sin importar el tipo bajo una sola figura, se enumeran comenzando desde 0 hasta la cantidad que elementos que se definan. Su forma parecida a las matrices nos permite manejar mucha informacion relacionada entre si.
